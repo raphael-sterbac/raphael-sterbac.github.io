@@ -11,7 +11,7 @@ picture: img/profile.png
 picture-round: false
 side-by-side: true
 pronouns: He/Him
-og-picture: https://raphael-sterbac.github.io/img/profile.png
+og-picture: https://raphael-sterbac.github.io/img/me.jpg
 ---
 
 I am a Master's student in Computer Science at ENS Paris-Saclay, interested in Type theory, Logic and Programming languages.
@@ -25,7 +25,8 @@ I am a Master's student in Computer Science at ENS Paris-Saclay, interested in T
 
 - Research Intern, Chalmers University of Technology (2 months)
     + Under the supervision of Thierry Coquand.
-    + Under the supervision of Prof. Thierry Coquand. Syntax and semantics of dependent type theory: creating normalisation models with artin glueing technique to relate Tarski and Russel universes with a new proof.
+    + Syntax and semantics of dependent type theory: proving normalisation semantically with the Artin glueing technique, proving the equivalence of Tarski and Russell presentations for cumulative universes.
+    + Talk at TYPES 2026
 
 # Education
 
