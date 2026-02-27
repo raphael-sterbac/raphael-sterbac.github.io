@@ -7,7 +7,7 @@ og-url: https://raphael-sterbac.github.io
 location: Saclay
 email: raphael.sterbac@ens-paris-saclay.fr
 clickable-email: true
-picture: img/profile.png
+picture: img/me.jpg
 picture-round: false
 side-by-side: true
 pronouns: He/Him
