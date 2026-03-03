@@ -7,6 +7,7 @@ og-url: https://raphael-sterbac.github.io
 location: Saclay
 email: raphael.sterbac@ens-paris-saclay.fr
 clickable-email: true
+picture: img/me.jpg
 picture-round: false
 side-by-side: true
 pronouns: He/Him
@@ -15,17 +16,21 @@ og-picture: https://raphael-sterbac.github.io/img/me.jpg
 
 I am a Master's student in Computer Science at ENS Paris-Saclay, interested in Type theory, Logic and Programming languages.
 
+# Talks
+
+- TYPES 2026 : Cumulative universe hierarchies and their equivalence in dependent type theory
+
 # Experience
 
 - Research Intern, University of Cambridge (5 months)
     + Under the supervision of Jon Sterling
     + Will focus on the foundational design and implementation of a new streamlined proof
-    assistant based on homotopy type theory. Implementation of a new presentation for cumulative universes, and study of its semantics in ∞-categories.
+    assistant based on homotopy type theory. Study and implementation of a new presentation for cumulative universes, and investigation of its semantics in toposes.
 
 - Research Intern, Chalmers University of Technology (2 months)
     + Under the supervision of Thierry Coquand.
     + Syntax and semantics of dependent type theory: proving normalisation semantically with the Artin glueing technique, proving the equivalence of Tarski and Russell presentations for cumulative universes.
-    + Talk at TYPES 2026
+    More generally, I also related the PTS and GAT presentations for type theory in general, in the way of Streicher's book.
 
 # Education
 
