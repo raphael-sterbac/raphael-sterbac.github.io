@@ -19,6 +19,13 @@ I am a Master's student in Computer Science at ENS Paris-Saclay, interested in T
 # Talks
 
 - TYPES 2026 : Cumulative universe hierarchies and their equivalence in dependent type theory
+    <details>
+      <summary>Abstract</summary>
+      We present a modular and algorithmic proof for the equivalence of different presentations of
+    type theory, notably relating Russell and Tarski presentations for a cumulative hierarchy of
+    universes. A crucial lemma is the injectivity of type formers, which we obtain by proving
+    normalisation for the Tarski-style theory via an adaptation of the gluing technique.
+    </details>
 
 # Experience
 
