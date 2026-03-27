@@ -11,10 +11,9 @@ picture: img/me.jpg
 picture-round: false
 side-by-side: true
 pronouns: He/Him
-og-picture: https://raphael-sterbac.github.io/img/me.jpg
 ---
 
-I am a Master's student in Computer Science at ENS Paris-Saclay, interested in Type theory, Logic and Programming languages.
+I am a interested in Type theory, Logic, Category theory and Programming languages.
 
 # Talks
 
