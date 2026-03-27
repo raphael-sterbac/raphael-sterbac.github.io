@@ -29,17 +29,17 @@ I am a Master's student in Computer Science at ENS Paris-Saclay, interested in T
 
 # Experience
 
-- Research Intern, University of Cambridge (5 months)
+- Research Internship, University of Cambridge (5 months)
     + Under the supervision of Jon Sterling
-    + Will focus on the foundational design and implementation of a new streamlined proof
-    assistant based on homotopy type theory. Study and implementation of a new presentation for cumulative universes, and investigation of its semantics in toposes.
+    + Foundational design and implementation of a new  proof assistant based on homotopy type theory ("Project Pterodactyl").
+    Study and implementation of a new presentation for cumulative universes, and investigation of its semantics in toposes. 
 
-- Research Intern, Chalmers University of Technology (2 months)
+- Research Internsip, Chalmers University of Technology (2 months)
     + Under the supervision of Thierry Coquand.
     + Syntax and semantics of dependent type theory: proving normalisation semantically with the Artin glueing technique, proving the equivalence of Tarski and Russell presentations for cumulative universes.
-    More generally, I also related the PTS and GAT presentations for type theory in general, in the way of Streicher's book.
+    More generally, I also related the PTS and GAT presentations for type theory in general, extending initiality results in the way of Streicher's book.
 
 # Education
 
-- ENS Paris-Saclay : Computer Science and Mathematics (2024-2028)
-- Lycée Montaigne : French "Classes préparatoires" (2022-2024)
+- First year of Master's degree in Computer Science (MPRI), 2025-2026 
+- Bachelor in both Mathematics and Computer Science, 2022-2025
