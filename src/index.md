@@ -13,7 +13,7 @@ side-by-side: true
 pronouns: He/Him
 ---
 
-I am a interested in Type theory, Logic, Category theory and Programming languages.
+I am a interested in Type theory, Logic, Category theory, Proof Assistants and Programming languages.
 
 # Talks
 
@@ -46,5 +46,5 @@ files:
 
 # Education
 
-- First year of Master's degree in Computer Science (MPRI), 2025-2026 
+- Master's degree in Computer Science (MPRI), 2025-2027 
 - Bachelor in both Mathematics and Computer Science, 2022-2025
