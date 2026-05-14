@@ -21,15 +21,12 @@ I am a interested in Type theory, Logic, Category theory, Proof Assistants and P
 title:  Cumulative universe hierarchies and their equivalence in dependent type theory
 authors: Raphaël Sterbac 
 venue: TYPES 
-url: https://basicpage.github.io
+url: https://types2026.cse.chalmers.se/abstracts/23.pdf
 year: 2026 
 files:
-  - text: Abstract 
-    type: pdf
-    scr: abstract-types.pdf
   - text: Slides 
     type: pdf
-    scr: slides-types.pdf
+    src: slides-types.pdf
 ```
 
 # Experience
