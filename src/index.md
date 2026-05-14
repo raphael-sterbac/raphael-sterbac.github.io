@@ -17,13 +17,20 @@ I am a interested in Type theory, Logic, Category theory and Programming languag
 
 # Talks
 
-<details>
-      <summary>TYPES 2026 : Cumulative universe hierarchies and their equivalence in dependent type theory</summary>
-      Abstract: We present a modular and algorithmic proof for the equivalence of different presentations of
-    type theory, notably relating Russell and Tarski presentations for a cumulative hierarchy of
-    universes. A crucial lemma is the injectivity of type formers, which we obtain by proving
-    normalisation for the Tarski-style theory via an adaptation of the gluing technique.
-</details>
+``` yaml {.paper}
+title:  Cumulative universe hierarchies and their equivalence in dependent type theory
+authors: Raphaël Sterbac 
+venue: TYPES 
+url: https://basicpage.github.io
+year: 2026 
+files:
+  - text: Paper
+    type: pdf
+    scr: foo.pdf
+  - text: Bibtex
+    type: bib
+    src: foo.bib
+```
 
 # Experience
 
