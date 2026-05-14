@@ -26,7 +26,7 @@ year: 2026
 files:
   - text: Slides 
     type: slides 
-    src: src/slides-types.pdf
+    src: https://types2026.cse.chalmers.se/slides/23.pdf
   - text: Formalisation 
     type: code 
     src: https://github.com/raphael-sterbac/Russell-Tarski-Equivalence
