@@ -26,7 +26,7 @@ year: 2026
 files:
   - text: Slides 
     type: pdf
-    src: slides-types.pdf
+    src: src/slides-types.pdf
 ```
 
 # Experience
