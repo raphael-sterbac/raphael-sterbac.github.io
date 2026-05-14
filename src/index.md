@@ -25,8 +25,11 @@ url: https://types2026.cse.chalmers.se/abstracts/23.pdf
 year: 2026 
 files:
   - text: Slides 
-    type: pdf
+    type: slides 
     src: src/slides-types.pdf
+  - text: Formalisation 
+    type: code 
+    src: https://github.com/raphael-sterbac/Russell-Tarski-Equivalence
 ```
 
 # Experience
