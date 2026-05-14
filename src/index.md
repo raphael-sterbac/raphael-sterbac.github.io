@@ -4,7 +4,7 @@ author: Raphaël Sterbac
 shortbio: Master's student in Computer Science at ENS Paris-Saclay
 description-meta: Master's student in Computer Science at ENS Paris-Saclay
 og-url: https://raphael-sterbac.github.io
-location: Saclay
+location: Paris/Saclay 
 email: raphael.sterbac@ens-paris-saclay.fr
 clickable-email: true
 picture: img/me.jpg
