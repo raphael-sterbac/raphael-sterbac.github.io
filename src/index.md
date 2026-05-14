@@ -24,12 +24,12 @@ venue: TYPES
 url: https://basicpage.github.io
 year: 2026 
 files:
-  - text: Paper
+  - text: Abstract 
     type: pdf
-    scr: foo.pdf
-  - text: Bibtex
-    type: bib
-    src: foo.bib
+    scr: abstract-types.pdf
+  - text: Slides 
+    type: pdf
+    scr: slides-types.pdf
 ```
 
 # Experience
