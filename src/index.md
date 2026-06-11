@@ -16,6 +16,20 @@ pronouns: He/Him
 I am a interested in Type theory, Logic, Category theory, Proof Assistants and Programming languages.
 
 # Talks
+``` yaml {.paper}
+title:  Cumulative universes in theory and practice
+authors: Raphaël Sterbac 
+venue: HoTT/UF 
+url: https://hott-uf.github.io/2026/abstracts/HoTTUF_2026_paper_13.pdf
+year: 2026 
+files:
+  - text: Slides 
+    type: slides 
+    src: https://hott-uf.github.io/2026/slides/sterbac.pdf
+  - text: Implementation 
+    type: code 
+    src: https://github.com/raphael-sterbac/elaboration-universes/tree/main 
+```
 
 ``` yaml {.paper}
 title:  Cumulative universe hierarchies and their equivalence in dependent type theory
