@@ -11,10 +11,10 @@ picture: img/me.jpg
 picture-round: false
 side-by-side: true
 pronouns: He/Him
-orcid:0009-0001-6779-8323
-github:raphael-sterbac
-mastodon:https://mathstodon.xyz/@Raphac
-linkedin:https://linkedin.com/in/raphael-sterbac
+orcid: 0009-0001-6779-8323
+github: raphael-sterbac
+mastodon: https://mathstodon.xyz/@Raphac
+linkedin: https://linkedin.com/in/raphael-sterbac
 ---
 
 I am interested in Type theory, Logic, Category theory, Proof Assistants and Programming languages.
