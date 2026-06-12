@@ -11,9 +11,13 @@ picture: img/me.jpg
 picture-round: false
 side-by-side: true
 pronouns: He/Him
+orcid:0009-0001-6779-8323
+github:raphael-sterbac
+mastodon:https://mathstodon.xyz/@Raphac
+linkedin:https://linkedin.com/in/raphael-sterbac
 ---
 
-I am a interested in Type theory, Logic, Category theory, Proof Assistants and Programming languages.
+I am interested in Type theory, Logic, Category theory, Proof Assistants and Programming languages.
 
 # Talks
 ``` yaml {.paper}
@@ -50,7 +54,7 @@ files:
 
 - Research Internship, University of Cambridge (5 months)
     + Under the supervision of Jon Sterling
-    + Foundational design and implementation of a new  proof assistant based on homotopy type theory ("Project Pterodactyl").
+    + Foundational design and implementation of a new proof assistant based on homotopy type theory ("Project Pterodactyl").
     Study and implementation of a new presentation for cumulative universes, and investigation of its semantics in toposes. 
 
 - Research Internsip, Chalmers University of Technology (2 months)
