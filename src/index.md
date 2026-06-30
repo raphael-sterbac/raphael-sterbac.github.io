@@ -50,17 +50,18 @@ files:
     src: https://github.com/raphael-sterbac/Russell-Tarski-Equivalence
 ```
 
-# Experience
+# Internships 
 
-- Research Internship, University of Cambridge (5 months)
+- University of Cambridge (5 months)
     + Under the supervision of Jon Sterling
     + Foundational design and implementation of a new proof assistant based on homotopy type theory ("Project Pterodactyl").
-    Study and implementation of a new presentation for cumulative universes, and investigation of its semantics in toposes. 
+    Study and implementation of a new presentation for cumulative universes, its relation to datatypes and implications for the implementation of practical systems.
+    Also, I studied cumulativity in infinity-toposes.
 
-- Research Internsip, Chalmers University of Technology (2 months)
+- Chalmers University of Technology (2 months)
     + Under the supervision of Thierry Coquand.
-    + Syntax and semantics of dependent type theory: proving normalisation semantically with the Artin glueing technique, proving the equivalence of Tarski and Russell presentations for cumulative universes.
-    More generally, I also related the PTS and GAT presentations for type theory in general, extending initiality results in the way of Streicher's book.
+    + Proving the equivalence of different presentations of type theory, notably relating Russell and Tarski presentations of cumulative universe hierarchies.
+      More generally, we related generalised algebraic and pure type system formulations of the syntax.
 
 # Education
 
