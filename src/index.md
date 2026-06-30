@@ -17,7 +17,7 @@ mastodon: https://mathstodon.xyz/@Raphac
 linkedin: https://linkedin.com/in/raphael-sterbac
 ---
 
-I am interested in Type theory, Logic, Category theory, Proof Assistants and Programming languages.
+Hi ! I am Raphaël, currently a master's student in computer science at ENS Paris-Saclay. My main interests include Type theory, Logic, Category theory, Proof Assistants and Programming languages. 
 
 # Talks
 ``` yaml {.paper}
