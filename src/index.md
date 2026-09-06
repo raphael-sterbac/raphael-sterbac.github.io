@@ -25,7 +25,7 @@ Feel free to send me an email if you want to chat or collaborate with me on thos
 
 # Papers
 ``` yaml {.paper}
-title: Fuss-free cumulative universes: theory and practice  
+title: "Fuss-free cumulative universes: theory and practice"
 authors: Raphaël Sterbac, Jonathan Sterling
 venue: Preprint 
 url: https://arxiv.org/abs/2607.11329v1 
