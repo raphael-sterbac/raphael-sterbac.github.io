@@ -14,6 +14,8 @@ pronouns: He/Him
 orcid: 0009-0001-6779-8323
 github: raphael-sterbac
 mastodon: https://mathstodon.xyz/@Raphac
+scholar: https://scholar.google.fr/citations?user=NoT9PCUAAAAJ&hl=fr
+dblp: https://dblp.org/pid/442/7965 
 linkedin: https://linkedin.com/in/raphael-sterbac
 ---
 
@@ -23,11 +25,15 @@ Feel free to send me an email if you want to chat or collaborate with me on thos
 
 # Papers
 ``` yaml {.paper}
-title: "Fuss-free cumulative universes: theory and practice"
-authors: Raphaël Sterbac, Jonathan Sterling 
+title: Fuss-free cumulative universes: theory and practice  
+authors: Raphaël Sterbac, Jonathan Sterling
+venue: Preprint 
 url: https://arxiv.org/abs/2607.11329v1 
 year: 2026 
 files:
+  - text: PDF 
+    type: pdf 
+    src: https://arxiv.org/pdf/2607.11329v1
   - text: Implementation 
     type: code 
     src: https://github.com/raphael-sterbac/elaboration-universes/tree/main 
