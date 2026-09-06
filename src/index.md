@@ -23,15 +23,11 @@ Feel free to send me an email if you want to chat or collaborate with me on thos
 
 # Papers
 ``` yaml {.paper}
-title: Fuss-free cumulative universes: theory and practice  
-authors: Raphaël Sterbac, Jon Sterling
-venue: Preprint 
+title: "Fuss-free cumulative universes: theory and practice"
+authors: Raphaël Sterbac, Jonathan Sterling 
 url: https://arxiv.org/abs/2607.11329v1 
 year: 2026 
 files:
-  - text: PDF 
-    type: pdf 
-    src: https://arxiv.org/pdf/2607.11329v1
   - text: Implementation 
     type: code 
     src: https://github.com/raphael-sterbac/elaboration-universes/tree/main 
