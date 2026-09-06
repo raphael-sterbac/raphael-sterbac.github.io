@@ -19,6 +19,22 @@ linkedin: https://linkedin.com/in/raphael-sterbac
 
 Hi ! I am Raphaël, currently a master's student in computer science at ENS Paris-Saclay. My main interests include Type theory, Logic, Category theory, Proof Assistants and Programming languages. 
 
+# Papers
+``` yaml {.paper}
+title: Fuss-free cumulative universes: theory and practice  
+authors: Raphaël Sterbac, Jon Sterling
+venue: Preprint 
+url: https://arxiv.org/abs/2607.11329v1 
+year: 2026 
+files:
+  - text: PDF 
+    type: pdf 
+    src: https://arxiv.org/pdf/2607.11329v1
+  - text: Implementation 
+    type: code 
+    src: https://github.com/raphael-sterbac/elaboration-universes/tree/main 
+```
+
 # Talks
 ``` yaml {.paper}
 title:  Cumulative universes in theory and practice
