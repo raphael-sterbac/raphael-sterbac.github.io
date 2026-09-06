@@ -19,6 +19,8 @@ linkedin: https://linkedin.com/in/raphael-sterbac
 
 Hi ! I am Raphaël, currently a master's student in computer science at ENS Paris-Saclay. My main interests include Type theory, Logic, Category theory, Proof Assistants and Programming languages. 
 
+Feel free to send me an email if you want to chat or collaborate with me on those topics.
+
 # Papers
 ``` yaml {.paper}
 title: Fuss-free cumulative universes: theory and practice  
