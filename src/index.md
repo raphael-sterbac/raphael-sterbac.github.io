@@ -27,7 +27,7 @@ Feel free to send me an email if you want to chat or collaborate with me on thos
 ``` yaml {.paper}
 title: "Fuss-free cumulative universes: theory and practice"
 authors: Raphaël Sterbac, Jonathan Sterling
-venue: Conditionally accepted at POPL 2027 
+venue: Conditionally accepted at POPL 
 url: https://arxiv.org/abs/2607.11329v1 
 year: 2026 
 files:
