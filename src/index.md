@@ -27,7 +27,7 @@ Feel free to send me an email if you want to chat or collaborate with me on thos
 ``` yaml {.paper}
 title: "Fuss-free cumulative universes: theory and practice"
 authors: Raphaël Sterbac, Jonathan Sterling
-venue: Preprint 
+venue: Conditionally accepted at POPL 2027 
 url: https://arxiv.org/abs/2607.11329v1 
 year: 2026 
 files:
@@ -47,6 +47,9 @@ venue: HoTT/UF
 url: https://hott-uf.github.io/2026/abstracts/HoTTUF_2026_paper_13.pdf
 year: 2026 
 files:
+  - text: PDF 
+    type: pdf 
+    src: https://hott-uf.github.io/2026/abstracts/HoTTUF_2026_paper_13.pdf
   - text: Slides 
     type: slides 
     src: https://hott-uf.github.io/2026/slides/sterbac.pdf
@@ -62,6 +65,9 @@ venue: TYPES
 url: https://types2026.cse.chalmers.se/abstracts/23.pdf
 year: 2026 
 files:
+  - text: PDF 
+    type: pdf 
+    src: https://types2026.cse.chalmers.se/abstracts/23.pdf
   - text: Slides 
     type: slides 
     src: https://types2026.cse.chalmers.se/slides/23.pdf
