@@ -4,11 +4,12 @@ author: Raphaël Sterbac
 shortbio: Master's student in Computer Science at ENS Paris-Saclay
 description-meta: Master's student in Computer Science at ENS Paris-Saclay
 og-url: https://raphael-sterbac.github.io
+og-picture: img/lambda.png
 location: Paris/Saclay 
 email: raphael.sterbac@ens-paris-saclay.fr
 clickable-email: true
 picture: img/me.jpg
-picture-round: true 
+picture-round: false 
 side-by-side: true
 pronouns: He/Him
 orcid: 0009-0001-6779-8323
@@ -85,7 +86,7 @@ year: 2026
 files:
   - text: Slides 
     type: slides 
-    src: slides/sandwich.pdf 
+    src: files/sandwich.pdf 
   - text: Formalisation 
     type: code 
     src: https://github.com/raphael-sterbac/Russell-Tarski-Equivalence
