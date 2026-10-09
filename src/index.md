@@ -8,7 +8,7 @@ location: Paris/Saclay
 email: raphael.sterbac@ens-paris-saclay.fr
 clickable-email: true
 picture: img/me.jpg
-picture-round: false
+picture-round: true 
 side-by-side: true
 pronouns: He/Him
 orcid: 0009-0001-6779-8323
@@ -79,13 +79,13 @@ files:
 ``` yaml {.paper}
 title: Cumulative hierarchies of universes and their equivalence in type theory 
 authors: Raphaël Sterbac 
-venue: SANDWICH Seminar (Weekly seminar of the CLASH team at Cambridge University).
-url: website/files/sandwich.pdf 
+venue: Weekly seminar of the CLASH team at Cambridge University
+url: files/sandwich.pdf 
 year: 2026 
 files:
   - text: Slides 
     type: slides 
-    src: website/slides/sandwich.pdf 
+    src: slides/sandwich.pdf 
   - text: Formalisation 
     type: code 
     src: https://github.com/raphael-sterbac/Russell-Tarski-Equivalence
