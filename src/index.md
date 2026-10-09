@@ -76,6 +76,21 @@ files:
     src: https://github.com/raphael-sterbac/Russell-Tarski-Equivalence
 ```
 
+``` yaml {.paper}
+title: Cumulative hierarchies of universes and their equivalence in type theory 
+authors: Raphaël Sterbac 
+venue: SANDWICH Seminar (Weekly seminar of the CLASH team at Cambridge University).
+url: website/files/sandwich.pdf 
+year: 2026 
+files:
+  - text: Slides 
+    type: slides 
+    src: website/slides/sandwich.pdf 
+  - text: Formalisation 
+    type: code 
+    src: https://github.com/raphael-sterbac/Russell-Tarski-Equivalence
+```
+
 # Internships 
 
 - University of Cambridge (5 months)
