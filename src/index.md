@@ -20,11 +20,12 @@ dblp: https://dblp.org/pid/442/7965
 linkedin: https://linkedin.com/in/raphael-sterbac
 ---
 
-Hi ! I am Raphaël, currently a master's student in Computer Science and Maths at ENS Paris-Saclay. My main interests include Type theory, Logic, Category theory, Proof Assistants and Programming languages. 
+Hi ! I am Raphaël, currently a master's student in Computer Science and Maths at ENS Paris-Saclay.
+My reserach interests include Type theory, Logic, Category theory, Proof Assistants and Programming languages. 
 
-Feel free to send me an email if you want to chat or collaborate with me on those topics.
+Feel free to send me an email if you want to chat or collaborate with me on those topics :)
 
-# Papers
+# Publications
 ``` yaml {.paper}
 title: "Fuss-free cumulative universes: theory and practice"
 authors: Raphaël Sterbac, Jonathan Sterling
@@ -109,4 +110,4 @@ Also, I studied cumulativity in infinity-toposes.
 
 - Master's degree in Fundamental Mathematics (Jussieu), 2026-2027 
 - Master's degree in Computer Science (MPRI), 2025-2027 
-- Bachelor in both Mathematics and Computer Science, 2022-2025
+- Bachelor in both Mathematics and Computer Science (ENS), 2022-2025
