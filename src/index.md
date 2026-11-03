@@ -20,7 +20,7 @@ dblp: https://dblp.org/pid/442/7965
 linkedin: https://linkedin.com/in/raphael-sterbac
 ---
 
-Hi ! I am Raphaël, currently a master's student in computer science and maths at ENS Paris-Saclay. My main interests include Type theory, Logic, Category theory, Proof Assistants and Programming languages. 
+Hi ! I am Raphaël, currently a master's student in Computer Science and Maths at ENS Paris-Saclay. My main interests include Type theory, Logic, Category theory, Proof Assistants and Programming languages. 
 
 Feel free to send me an email if you want to chat or collaborate with me on those topics.
 
@@ -94,19 +94,19 @@ files:
 
 # Research experience
 
-University of Cambridge, UK (6 month Internship)
+### University of Cambridge, UK (6 month Internship)
 - Under the supervision of Jon Sterling
 - Focused on the foundational design and implementation of a new proof assistant based on homotopy type theory ("Project Pterodactyl").
 I studied and implemented of a new presentation for cumulative universes, its relation to datatypes and implications for the implementation of practical systems.
 Also, I studied cumulativity in infinity-toposes.
 
-Chalmers University of Technology, Sweden (2 month Internship)
+### Chalmers University of Technology, Sweden (2 month Internship)
 - Under the supervision of Thierry Coquand.
 - We proved the equivalence of different presentations of type theory, notably relating Russell and Tarski presentations of cumulative universe hierarchies.
   More generally, we related generalised algebraic and pure type system formulations of the syntax and formalised our proof in Rocq.
 
 # Education
 
-- Master's degree in fundamental Mathematics (Jussieu), 2026-2027 
+- Master's degree in Fundamental Mathematics (Jussieu), 2026-2027 
 - Master's degree in Computer Science (MPRI), 2025-2027 
 - Bachelor in both Mathematics and Computer Science, 2022-2025
