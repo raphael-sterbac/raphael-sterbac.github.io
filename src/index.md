@@ -30,12 +30,12 @@ Feel free to send me an email if you want to chat or collaborate with me on thos
 title: "Fuss-free cumulative universes: theory and practice"
 authors: Raphaël Sterbac, Jonathan Sterling
 venue: Accepted at POPL 
-url: https://arxiv.org/abs/2607.11329v1 
+url: https://arxiv.org/abs/2607.11329
 year: 2027 
 files:
   - text: PDF 
     type: pdf 
-    src: https://arxiv.org/pdf/2607.11329v1
+    src: https://arxiv.org/pdf/2607.11329
   - text: Implementation 
     type: code 
     src: https://github.com/raphael-sterbac/elaboration-universes/tree/main 
